@@ -11,7 +11,6 @@
   <h3>PROGRAMMING LANGUAGES</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="java"  alt="java" width="40" height="40"/>&nbsp;
-    
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp"  alt="cpp" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="p"  alt="p" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="dart"  alt="dart" width="40" height="40"/>&nbsp;
