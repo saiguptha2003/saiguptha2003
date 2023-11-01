@@ -34,7 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-![image](https://github.com/saiguptha2003/saiguptha2003/assets/96918090/1126cc09-1223-44ed-bcdc-bcb2d46e8ddb)
+  <img src="https://github.com/saiguptha2003/saiguptha2003/assets/96918090/1126cc09-1223-44ed-bcdc-bcb2d46e8ddb" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 
     
     
