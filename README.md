@@ -20,6 +20,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>&nbsp;
     <img src="https://github.com/saiguptha2003/saiguptha2003/blob/main/1200px-Qt_logo_2013.svg.png" width="40" height="40"/>&nbsp;
     <img src="https://github.com/saiguptha2003/saiguptha2003/blob/main/icons8-google-firebase-console-50.png" width="50" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="HTML5" alt="HTML" width="40" height="40">ReactNative</img>&nbsp;
         
   
   <h3>WEB DEVELOPMENT</h3>
@@ -29,7 +30,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"  title="CSS3" alt="spring" width="40" height="40"/>&nbsp;
     <img src="https://github.com/saiguptha2003/saiguptha2003/blob/main/icons8-flask-50.png" width="70" height="70"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    
     
     
   
