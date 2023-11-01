@@ -29,7 +29,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"  title="CSS3" alt="spring" width="40" height="40"/>&nbsp;
     <img src="https://github.com/saiguptha2003/saiguptha2003/blob/main/icons8-flask-50.png" width="70" height="70"/>&nbsp;
-[https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg](https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg)
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    
     
   
   
