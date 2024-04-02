@@ -21,6 +21,7 @@
     <img src="https://github.com/saiguptha2003/saiguptha2003/blob/main/icons8-google-firebase-console-50.png" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" height="50"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  title="CSS3" alt="spring" width="50" height="50"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="HTML5" alt="HTML" width="40" height="40">ReactNative</img>&nbsp;
         
   
